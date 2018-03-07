@@ -7,3 +7,7 @@ Formation à distance d'introduction à R
 - **01_exercices** contient des exercices
 - **02_references** contient des *cheatsheets* et autres cartes de références R
 - **03_semaines** contient les PDFs qui disent quoi faire à chaque semaine
+
+## Documents de cours disponibles
+
+- [Semaine 1](https://github.com/enormandeau/intro_R_2018/raw/master/03_semaines/intro_R_2018_semaine_01.pdf)
