@@ -1,5 +1,9 @@
-# intro_R
+# Introduction à R 2018
+
 Formation à distance d'introduction à R
+
+Cette formation a été créée à l'origine pour les membres du regroupement de
+recherche [Ressources Aquatiques Québec](https://raq.uqar.ca/fr/).
 
 ## Organisation des dossiers
 
