@@ -18,3 +18,4 @@ recherche [Ressources Aquatiques Québec](https://raq.uqar.ca/fr/).
 - [Semaine 2 (PDF)](https://github.com/enormandeau/intro_R_2018/raw/master/03_semaines/intro_R_2018_semaine_02.pdf)
 - [Semaine 3 (PDF)](https://github.com/enormandeau/intro_R_2018/raw/master/03_semaines/intro_R_2018_semaine_03.pdf)
 - [Semaine 4 (PDF)](https://github.com/enormandeau/intro_R_2018/raw/master/03_semaines/intro_R_2018_semaine_04.pdf)
+- [Semaine 5 (PDF)](https://github.com/enormandeau/intro_R_2018/raw/master/03_semaines/intro_R_2018_semaine_05.pdf)
